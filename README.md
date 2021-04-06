@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wellsG
-- 👀 I’m interested in Data Science and Project Management!
-- 🌱 I’m currently learning python for data analysis
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science and Artificial Intelligence.
+- 🌱 I’m currently learning python for data analysis, sql & databases, and visualization.
 - 📫 How to reach me ... Linkedin
 
 <!---
