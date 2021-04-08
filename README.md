@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wellsG
 - 👀 I’m interested in Data Science and Artificial Intelligence.
-- 🌱 I’m currently learning python for data analysis, sql & databases, and visualization.
-- 📫 How to reach me ... Linkedin
+- 🌱 I’m currently learning sql & databases using Db2, python data visualization, and machine learning.
+- 📫 How to reach me ... Linkedin or a DM here.
 
 <!---
 wellsG/wellsG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
