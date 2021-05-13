@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wellsG
 - 👀 I’m interested in Data Science and Artificial Intelligence.
-- 🌱 I’m currently learning sql & databases using Db2, python data visualization, and machine learning.
+- 🌱 I’m currently learning sql & databases using Db2, machine learning, and working on my capstone project.
 - 📫 How to reach me ... Linkedin or a DM here.
 
 <!---
