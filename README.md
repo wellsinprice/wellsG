@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wellsG
-- 👀 I’m interested in Data Science and Artificial Intelligence.
-- 🌱 I’m currently learning sql & databases using Db2, machine learning, and working on my capstone project.
+- 👀 I’m interested in Data Science, Artificial Intelligence, Bioinformatics, and Computational Neuroscience.
+- 🌱 I’m currently learning about bioinformatics, calculus, and R.
 - 📫 How to reach me ... Linkedin or a DM here.
 
 <!---
