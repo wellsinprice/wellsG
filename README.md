@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @wellsG
-- 👀 I’m interested in Data Science, Artificial Intelligence, Bioinformatics, and Computational Neuroscience.
-- 🌱 I’m currently learning R with applications towards neuroscience and genomics.
--   I'm currently programming in bash, R, and python.
-- 📫 How to reach me ... Linkedin
+#  Hi, I’m Wellsin Price
+-  I’m interested in Artificial Intelligence, Computational Neuroscience, Bioinformatics, Data Science, Robotics, and Cybernetics.
+-  I'm currently programming in bash shell, R, python, and SQL.
 
 <!---
 wellsG/wellsG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
