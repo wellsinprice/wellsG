@@ -4,7 +4,7 @@
 -  I'm learning R, python, SQL, and Rust in my free time.
 
 ## Technical Skills
-Linux, computer hardware, hardware troubleshooting, statistical programming, R, python, SQL, shell (bash, zsh)...
+Linux, computer hardware, hardware troubleshooting, statistical programming, R, python, SQL, shell scripting (bash, zsh)
 ## Hobbies
 PC Building, Arsenal FC, pc gaming
 <!---
